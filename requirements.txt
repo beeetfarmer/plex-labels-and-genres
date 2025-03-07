@@ -1,0 +1,2 @@
+plexapi>=4.6.0
+argparse>=1.4.0

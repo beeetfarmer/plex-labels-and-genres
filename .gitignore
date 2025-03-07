@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Local configuration
+*.ini
+config.local.py
+
+# Generated files
+*.csv
+*.log
+
+# Windows specific
+Thumbs.db
+desktop.ini
